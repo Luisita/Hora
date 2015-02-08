@@ -1,3 +1,4 @@
 $(document).on('deviceready', function(){ 
-    alert("Listo el dispositivo");
+    $("#fechaAct").val("Hola");
+     $.mobile.changePage("#fecha")
 });
