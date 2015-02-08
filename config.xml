@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Online</name>
+    <name>Hora</name>
     <description>
-        Open the Google homepage as soon as you detect that the PhoneGap application is online.
+        Display the current time when the device is ready.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Luisa Ivonne García Rodríguez
